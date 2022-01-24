@@ -3,7 +3,7 @@
     <h1> Hi there, I'm Muhammad Fawad👋<a href="#"></h1>
   </div>
 <p align="center">
-  <a href="https://github.com/fawad1386"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Custom%20WordPress%20Developer;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a>
+  <a href="https://github.com/fawad1386"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Custom%20WordPress%20Developer;Video%20Editor;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a>
   
 </p>
 <h1 align="center"> Connect with me: </h1>
