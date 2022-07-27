@@ -8,12 +8,12 @@
 </p>
 <h1 align="center"> Connect with me: </h1>
 <p align="center">
-<a href="https://leetcode.com/fawad1386/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/leetcode.svg" alt="SaadFareed" height="30" width="40" /></a>
-<a href="https://twitter.com/Fawad564" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="SaadFareed" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/muhammad-fawad-75242821a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="SaadFareed" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17273497/muhammad-fawad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="SaadFareed" height="30" width="40" /></a>
-<a href="https://www.instagram.com/em_fawad_naeem/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="SaadFareed" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCUBNwUkmE_qjOKGuf-a4_Gw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/youtube.svg" alt="SaadFareed" height="30" width="40" /></a>
+<a href="https://leetcode.com/fawad1386/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/leetcode.svg" alt="Fawad1386" height="30" width="40" /></a>
+<a href="https://twitter.com/Fawad564" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Fawad564" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-fawad-75242821a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="MuhammadFawad" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17273497/muhammad-fawad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="MuhammadFawad" height="30" width="40" /></a>
+<a href="https://www.instagram.com/em_fawad_naeem/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="FawadNaeem" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCUBNwUkmE_qjOKGuf-a4_Gw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/youtube.svg" alt="MuhammadFawad" height="30" width="40" /></a>
 </p>
 <br>
 <h2 align="center"> Contribution Graph: </h2>
