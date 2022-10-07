@@ -3,7 +3,7 @@
     <h1> Hi there, I'm Muhammad Fawad👋<a href="#"></h1>
   </div>
 <p align="center">
-  <a href="https://github.com/fawad1386"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Custom%20WordPress%20Developer;Video%20Editor;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a>
+  <a href="https://github.com/fawad1386"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Front+End+Web+Developer;React.js+Developer;Custom%20WordPress%20Developer;Data%20Scientist%20Soon;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a>
   
 </p>
 <h1 align="center"> Connect with me: </h1>
@@ -13,7 +13,6 @@
 <a href="https://www.linkedin.com/in/muhammad-fawad-75242821a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="MuhammadFawad" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17273497/muhammad-fawad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="MuhammadFawad" height="30" width="40" /></a>
 <a href="https://www.instagram.com/em_fawad_naeem/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="FawadNaeem" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCUBNwUkmE_qjOKGuf-a4_Gw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/youtube.svg" alt="MuhammadFawad" height="30" width="40" /></a>
 </p>
 <br>
 <h2 align="center"> Contribution Graph: </h2>
