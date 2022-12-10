@@ -15,10 +15,6 @@
 <a href="https://www.instagram.com/em_fawad_naeem/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="FawadNaeem" height="30" width="40" /></a>
 </p>
 <br>
-<h2 align="center"> Contribution Graph: </h2>
-
-[![Fawad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fawad1386&theme=xcode)](https://github.com/fawad1386)
-
 <h2 align="center"><i>⚙ GitHub Analytics:</i></h2>
 <p align="center">
   <a href="https://github.com/fawad1386"><span>
