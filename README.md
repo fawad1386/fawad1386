@@ -1,64 +1,190 @@
-### Hello World, [Muhammad Fawad]((https://fawad1386.github.io/portfolio/)) here! <img src="https://user-images.githubusercontent.com/46846821/87522094-a135a000-c69e-11ea-899d-e8093968ef3b.gif" width="24px">
+<body>
+<div align="center">
+    <h1 style="color: #F7CC18FF;">Hi there, I'm Muhammad Fawad👋<a href="#"></a></h1>
+  </div>
+<p align="center">
+  <a href="https://github.com/fawad1386"><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=React+Developer;Mern+Stack+Developer;Django+Developer;HTML%20|%20CSS%20|%20Bootstrap|%20Javascript;MongoDb|%20ExpressJs|%20ReactJs|%20Nodejs;Always%20learning%20new%20Technology&center=true&width=500&height=50" alt="Typing SVG"></a>
+  
+</p>
+<!-- <h1 align="center"> Connect with me: </h1>
+<p align="center">
+  <a href="https://www.cloudskillsboost.google/public_profiles/e6e73b02-4663-4105-b49c-00184e168127"
+  target="blank">
+  <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/qwiklabs.svg"
+      alt="fawad1386" height="30" width="40" />
+</a>
 
-# 💫 About Me:
+<a href="https://codepen.io/Hassaan0509" target="blank">
+  <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg"
+      alt="Hassaan0509" height="30" width="40" />
+</a>
 
-👨🏻‍💻 Working as a Freelancer at [Fiverr](https://fiverr.com/)
+<a href="https://leetcode.com/hahmad2205/" target="blank">
+  <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/leetcode.svg"
+      alt="Hassaan0509" height="30" width="40" />
+</a>
 
-🎓 Pursuing BSCS from the [University of Engineering & Technology Lahore](https://uet.edu.pk/)
+<a href="https://dev.to/hassaan0509" target="blank">
+  <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg"
+      alt="Hassaan0509" height="30" width="40" />
+</a>
 
-👯 Creating and contributing to open-source code & content
+<a href="https://twitter.com/Hassaan67377143" target="blank">
+  <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"
+      alt="Hassaan0509" height="30" width="40" />
+</a>
 
-## 🌐 Socials:
+<a href="https://www.linkedin.com/in/hassaan-ahmad-155132221/" target="blank">
+  <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
+      alt="Hassaan0509" height="30" width="40" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-fawad-75242821a/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.instagram.com/em_fawad_naeem/)
+<a href="https://www.instagram.com/hassaan.ahmad.2205/" target="blank">
+  <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"
+      alt="Hassaan0509" height="30" width="40" />
+</a>
+</p> -->
+    <br>
 
-# 💻 Tech Stack:
+### I'm a Full Stack Web Developer, Enthuist and Student!
+- 🔭 I’m currently working as Mern Stack Web Developer.
+- 🌱 I’m currently expanding my knowledge in other Web Technologies.
+- 👯 I’m looking to collaborate with other content creators and developers.
+- 🥅 2023-24 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
+- 💎 If you are a Tech boy/girl let's get connected.
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+ 
+<br>
+    
+<h2>Tech Stack</h2>
 
-# 📊 GitHub Stats:
+<table>
+<tr>
+<td align='center'>
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="100">
+</td>
+<td align='center'>
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="100">
+</td>
+<td align='center'>
+<img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="100">
+</td>
+<td align='center'>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="100">
+</td>
+<td align='center'>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="100">
+</td>
+</tr>
+<tr>
+<td align='center'>
+<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" width="70">
+</td>
+<td align='center'>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" width="70">
+</td>
+<td align='center'>
+<img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
+</td>
+<td align='center' width="200">
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="170">
+</td>
+<td align='center' width="200">
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="90">
+</td>
+</tr>
+<tr>
+<td align='center' width="200">
+<img src="https://camo.githubusercontent.com/2b97405ead6d87cffc71126648f74f034ab9b77525453aaac85ca79248532854/68747470733a2f2f766567696269742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f657870726573736a732e706e67">
+</td>
+<td align='center' width="200">
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
+</td>
+<td align='center'>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg">
+</td>
+<td align='center' width="200">
+<img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
+</td>
+<td align='center' width="200">
+<img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
+</td>
+</tr>
+<tr>	
+<td align='center' width="200">
+<img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png">
+</td>
+<td align='center' width="200">
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="100">
+</td>
+<td align='center' width="200">
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"  width="90">
+</td>
+<td align='center' width="200">
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"  width="90">
+</td>
+<td align='center' width="200">
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="80">
+</td>
+</tr>
+<tr>
+<td align='center' width="200">
+<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" width="150">
+</td>
+<td align='center' width="200">
+<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="90">
+</td>
+<td align='center' width="200">
+<img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" width="90">
+</td>
+<td align='center' width="200">
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="90">
+</td>
+<td align='center'>
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+</td>
+</tr>
+</table>
+	  
+<p align="center">
+<a href="https://www.linkedin.com/in/hassaan-ahmad-155132221/"><img src="https://img.shields.io/badge/-Hassaan%20Ahmad-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:hahmad2205@gmail.com"><img src="https://img.shields.io/badge/-hassaanahmad@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/hassaan.ahmad.2205/"><img src="https://img.shields.io/badge/-@hassaanahmad-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://leetcode.com/hahmad2205/"><img src="https://img.shields.io/badge/-/hassaanahmad-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
+ </p>
+    
+<br>
 
-![](https://github-readme-stats.vercel.app/api?username=fawad1386&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=fawad1386&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fawad1386&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<table>
+  <tr>
+    <th>Stats</th>
+    <th>Streak</th>
+    <th>Languages</th>
+  </tr>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hassaan0509&theme=gruvbox"/></td>
+    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Hassaan0509&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/></a></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hassaan0509&theme=gruvbox"/></td>
+  </tr>
+</table>
+	
 
-### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=fawad1386&limit=5&theme=dark&combine_all_yearly_contributions=true)
+ [![An image of @hassaanahmad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hassaanahmad)](https://holopin.io/@hassaanahmad)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=fawad1386&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
----
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+<h2 align="center">🏆 GitHub Profile Trophy:</h2>
+<p align="center">
+<a href="https://github.com/Hassaan0509">
+  <img width=600 src="https://github-profile-trophy.vercel.app/?username=Hassaan0509&theme=discord"/>
+</a>
+</p>
+<hr>
+<h2 align>Spotify Playing 🎧</h2>
+    
+![Spotify](https://novatorem.vercel.app/api/spotify)
+    
+<p align="center"> 
+  Views<br>
+  <img src="https://profile-counter.glitch.me/hassaanahmad/count.svg" />
+</p>
