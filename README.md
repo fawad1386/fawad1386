@@ -3,7 +3,7 @@
     <h1 style="color: #F7CC18FF;">Hi there, I'm Muhammad Fawad👋<a href="#"></a></h1>
   </div>
 <p align="center">
-  <a href="https://github.com/fawad1386"><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=React+Developer;Mern+Stack+Developer;Django+Developer;HTML%20|%20CSS%20|%20Bootstrap|%20Javascript;MongoDb|%20ExpressJs|%20ReactJs|%20Nodejs;Always%20learning%20new%20Technology&center=true&width=500&height=50" alt="Typing SVG"></a>
+  <a href="https://github.com/fawad1386"><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=React+Developer;Mern+Stack+Developer;WordPress+Developer;HTML%20|%20CSS%20|%20Bootstrap|%20Javascript;MongoDb|%20ExpressJs|%20ReactJs|%20Nodejs;Always%20learning%20new%20Technology&center=true&width=500&height=50" alt="Typing SVG"></a>
   
 </p>
 <!-- <h1 align="center"> Connect with me: </h1>
@@ -14,34 +14,34 @@
       alt="fawad1386" height="30" width="40" />
 </a>
 
-<a href="https://codepen.io/Hassaan0509" target="blank">
+<a href="https://codepen.io/fawad1386" target="blank">
   <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg"
-      alt="Hassaan0509" height="30" width="40" />
+      alt="fawad1386" height="30" width="40" />
 </a>
 
-<a href="https://leetcode.com/hahmad2205/" target="blank">
+<a href="https://leetcode.com/fawad1386/" target="blank">
   <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/leetcode.svg"
-      alt="Hassaan0509" height="30" width="40" />
+      alt="fawad1386" height="30" width="40" />
 </a>
 
-<a href="https://dev.to/hassaan0509" target="blank">
+<a href="https://dev.to/fawad1386" target="blank">
   <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg"
-      alt="Hassaan0509" height="30" width="40" />
+      alt="fawad1386" height="30" width="40" />
 </a>
 
-<a href="https://twitter.com/Hassaan67377143" target="blank">
+<a href="https://twitter.com/fawad564" target="blank">
   <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"
-      alt="Hassaan0509" height="30" width="40" />
+      alt="fawad1386" height="30" width="40" />
 </a>
 
-<a href="https://www.linkedin.com/in/hassaan-ahmad-155132221/" target="blank">
+<a href="[https://www.linkedin.com/in/muhammad-fawad-naeem/]" target="blank">
   <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
-      alt="Hassaan0509" height="30" width="40" />
+      alt="fawad1386" height="30" width="40" />
 </a>
 
-<a href="https://www.instagram.com/hassaan.ahmad.2205/" target="blank">
+<a href="https://www.instagram.com/em_fawad_naeem/" target="blank">
   <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"
-      alt="Hassaan0509" height="30" width="40" />
+      alt="fawad1386" height="30" width="40" />
 </a>
 </p> -->
     <br>
@@ -147,10 +147,10 @@
 </table>
 	  
 <p align="center">
-<a href="https://www.linkedin.com/in/hassaan-ahmad-155132221/"><img src="https://img.shields.io/badge/-Hassaan%20Ahmad-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:hahmad2205@gmail.com"><img src="https://img.shields.io/badge/-hassaanahmad@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/hassaan.ahmad.2205/"><img src="https://img.shields.io/badge/-@hassaanahmad-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://leetcode.com/hahmad2205/"><img src="https://img.shields.io/badge/-/hassaanahmad-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
+<a href="https://www.linkedin.com/in/muhammad-fawad-naeem/"><img src="https://img.shields.io/badge/-Muhammad%20Fawad-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:mohammad.fawad.564@gmail.com"><img src="https://img.shields.io/badge/-mohammad.fawad.564@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/em_fawad_naeem/"><img src="https://img.shields.io/badge/-@fawadnaeem-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://leetcode.com/fawad1386/"><img src="https://img.shields.io/badge/-/fawadnaeem-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
  </p>
     
 <br>
@@ -162,9 +162,9 @@
     <th>Languages</th>
   </tr>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hassaan0509&theme=gruvbox"/></td>
-    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Hassaan0509&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/></a></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hassaan0509&theme=gruvbox"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fawad1386&theme=gruvbox"/></td>
+    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=fawad1386&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/></a></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fawad1386&theme=gruvbox"/></td>
   </tr>
 </table>
 	
@@ -175,8 +175,8 @@
 <br/>
 <h2 align="center">🏆 GitHub Profile Trophy:</h2>
 <p align="center">
-<a href="https://github.com/Hassaan0509">
-  <img width=600 src="https://github-profile-trophy.vercel.app/?username=Hassaan0509&theme=discord"/>
+<a href="https://github.com/fawad1386">
+  <img width=600 src="https://github-profile-trophy.vercel.app/?username=fawad1386&theme=discord"/>
 </a>
 </p>
 <hr>
@@ -186,5 +186,5 @@
     
 <p align="center"> 
   Views<br>
-  <img src="https://profile-counter.glitch.me/hassaanahmad/count.svg" />
+  <img src="https://profile-counter.glitch.me/fawad1386/count.svg" />
 </p>
