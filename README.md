@@ -47,10 +47,10 @@
     <br>
 
 ### I'm a Full Stack Web Developer, Enthuist and Student!
-- 🔭 I’m currently working as Mern Stack Web Developer.
+- 🔭 I’m currently working as Full Stack JavaScript Developer.
 - 🌱 I’m currently expanding my knowledge in other Web Technologies.
 - 👯 I’m looking to collaborate with other content creators and developers.
-- 🥅 2023-24 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
+- 🥅 2024-25 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
 - 💎 If you are a Tech boy/girl let's get connected.
 
  
@@ -95,7 +95,7 @@
 </tr>
 <tr>
 <td align='center' width="200">
-<img src="https://github.com/devicons/devicon/tree/master/icons/flutter">
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
 </td>
 <td align='center' width="200">
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
