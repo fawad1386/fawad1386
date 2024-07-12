@@ -67,7 +67,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="100">
 </td>
 <td align='center'>
-<img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="100">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  width="100">
 </td>
 <td align='center'>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="100">
@@ -95,7 +95,7 @@
 </tr>
 <tr>
 <td align='center' width="200">
-<img src="https://camo.githubusercontent.com/2b97405ead6d87cffc71126648f74f034ab9b77525453aaac85ca79248532854/68747470733a2f2f766567696269742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f657870726573736a732e706e67">
+<img src="https://github.com/devicons/devicon/tree/master/icons/flutter">
 </td>
 <td align='center' width="200">
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
