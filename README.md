@@ -48,9 +48,9 @@
 
 ### I'm a Full Stack Web Developer, Enthuist and Student!
 - 🔭 I’m currently working as Full Stack JavaScript Developer.
-- 🌱 I’m currently expanding my knowledge in other Web Technologies.
+- 🌱 I’m currently expanding my knowledge in other Modern Technologies.
 - 👯 I’m looking to collaborate with other content creators and developers.
-- 🥅 2024-25 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
+- 🥅 2025-26 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
 - 💎 If you are a Tech boy/girl let's get connected.
 
  
@@ -170,7 +170,7 @@
 	
 
 
- [![An image of @hassaanahmad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fawad1386)](https://holopin.io/@fawad1386)
+ [![An image of @fawad1386's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fawad1386)](https://holopin.io/@fawad1386)
 
 <br/>
 <h2 align="center">🏆 GitHub Profile Trophy:</h2>
